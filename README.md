@@ -1,16 +1,18 @@
-# BVG_7003_varientcalling
+# BVG_7003_variantcalling
 
 This page is created by Jiaxu Wu
 
 There are some shell scripts for varient calling analysis in BVG_7003 @ Université Laval.
 
-For varient calling please see 
+The results were saved in `result_files` folder.
+
+For variant calling please see 
 
 ## Requirement
 
 ### Environment
 
-Conda should be installed. -- see https://docs.conda.io/en/latest/ 
+**Python 3.7 or later** --see http://www.python.org
 
 ### Softwares
 
@@ -28,4 +30,20 @@ GNU `parapllel` _ver 20221022_ --see https://www.gnu.org/software/parallel/sphin
 
 `bcftools` _ver 1.16_ --see https://github.com/samtools/bcftools
 
+## Usage
 
+    ./filename.sh
+    
+or
+
+    /path/to/filename.sh
+
+## Barcode demultiplexing for FastaQ files
+
+## Remove adapter sequences
+
+## Align uery sequences with the BWA-MEM algorithm.
+
+## Convert SAM to BAM file
+
+## Vairent calling
