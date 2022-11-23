@@ -2,7 +2,7 @@
 
 CPU=4
 
-cd /Users/jiaxuwu/BVG_7003/varients_calling/NGS
+cd /path/to/NGS
 
 # create a log file
 exec &> convert.log
