@@ -5,8 +5,8 @@ mkdir /path/to/NGS
 
 cd /path/to/NGS
 
-DATA=/path/to/FC20150701_1.fq
-BARCODE=/path/to/FC20150701_1.txt
+DATA=/path/to/GBS_data/FC20150701_1.fq
+BARCODE=/path/to/GBS_data/FC20150701_1.txt
 
 exec &> sabre.log
 
