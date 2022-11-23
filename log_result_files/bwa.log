@@ -1,0 +1,294 @@
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1735 sequences (180403 bp)...
+[M::mem_process_seqs] Processed 1735 reads in 3.045 CPU sec, 1.881 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC09.fq.fastq
+[main] Real time: 6.975 sec; CPU: 4.676 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1942 sequences (203530 bp)...
+[M::mem_process_seqs] Processed 1942 reads in 3.060 CPU sec, 1.872 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC10.fq.fastq
+[main] Real time: 7.014 sec; CPU: 4.714 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2140 sequences (226065 bp)...
+[M::mem_process_seqs] Processed 2140 reads in 3.285 CPU sec, 1.994 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC11.fq.fastq
+[main] Real time: 7.088 sec; CPU: 4.853 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1775 sequences (186744 bp)...
+[M::mem_process_seqs] Processed 1775 reads in 0.844 CPU sec, 0.448 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC13.fq.fastq
+[main] Real time: 1.784 sec; CPU: 1.959 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 3147 sequences (330664 bp)...
+[M::mem_process_seqs] Processed 3147 reads in 1.277 CPU sec, 0.672 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC12.fq.fastq
+[main] Real time: 1.994 sec; CPU: 2.427 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2657 sequences (277975 bp)...
+[M::mem_process_seqs] Processed 2657 reads in 0.810 CPU sec, 0.411 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC14.fq.fastq
+[main] Real time: 1.908 sec; CPU: 1.975 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2077 sequences (217553 bp)...
+[M::mem_process_seqs] Processed 2077 reads in 0.662 CPU sec, 0.335 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC15.fq.fastq
+[main] Real time: 1.433 sec; CPU: 1.759 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1720 sequences (178846 bp)...
+[M::mem_process_seqs] Processed 1720 reads in 0.540 CPU sec, 0.271 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC16.fq.fastq
+[main] Real time: 1.385 sec; CPU: 1.652 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1545 sequences (164395 bp)...
+[M::mem_process_seqs] Processed 1545 reads in 0.550 CPU sec, 0.277 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC17.fq.fastq
+[main] Real time: 1.402 sec; CPU: 1.675 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1547 sequences (162850 bp)...
+[M::mem_process_seqs] Processed 1547 reads in 0.588 CPU sec, 0.298 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC18.fq.fastq
+[main] Real time: 1.500 sec; CPU: 1.789 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1882 sequences (199015 bp)...
+[M::mem_process_seqs] Processed 1882 reads in 0.813 CPU sec, 0.412 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC19.fq.fastq
+[main] Real time: 1.597 sec; CPU: 1.979 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2299 sequences (241200 bp)...
+[M::mem_process_seqs] Processed 2299 reads in 0.819 CPU sec, 0.414 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC20.fq.fastq
+[main] Real time: 1.623 sec; CPU: 1.993 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2475 sequences (263279 bp)...
+[M::mem_process_seqs] Processed 2475 reads in 0.893 CPU sec, 0.448 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC21.fq.fastq
+[main] Real time: 1.555 sec; CPU: 1.999 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1429 sequences (147812 bp)...
+[M::mem_process_seqs] Processed 1429 reads in 0.586 CPU sec, 0.294 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC23.fq.fastq
+[main] Real time: 1.389 sec; CPU: 1.680 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 3164 sequences (335369 bp)...
+[M::mem_process_seqs] Processed 3164 reads in 1.329 CPU sec, 0.667 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC22.fq.fastq
+[main] Real time: 1.753 sec; CPU: 2.415 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1765 sequences (183125 bp)...
+[M::mem_process_seqs] Processed 1765 reads in 0.587 CPU sec, 0.294 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC24.fq.fastq
+[main] Real time: 1.397 sec; CPU: 1.688 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2858 sequences (301554 bp)...
+[M::mem_process_seqs] Processed 2858 reads in 1.094 CPU sec, 0.549 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC25.fq.fastq
+[main] Real time: 1.651 sec; CPU: 2.194 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 3708 sequences (395410 bp)...
+[M::mem_process_seqs] Processed 3708 reads in 1.438 CPU sec, 0.723 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC26.fq.fastq
+[main] Real time: 1.814 sec; CPU: 2.528 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2829 sequences (298603 bp)...
+[M::mem_process_seqs] Processed 2829 reads in 0.977 CPU sec, 0.490 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC27.fq.fastq
+[main] Real time: 1.575 sec; CPU: 2.060 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2797 sequences (294276 bp)...
+[M::mem_process_seqs] Processed 2797 reads in 0.942 CPU sec, 0.472 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC28.fq.fastq
+[main] Real time: 1.538 sec; CPU: 2.007 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1364 sequences (143450 bp)...
+[M::mem_process_seqs] Processed 1364 reads in 0.542 CPU sec, 0.272 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC29.fq.fastq
+[main] Real time: 1.350 sec; CPU: 1.618 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2111 sequences (223985 bp)...
+[M::mem_process_seqs] Processed 2111 reads in 0.745 CPU sec, 0.373 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC30.fq.fastq
+[main] Real time: 1.469 sec; CPU: 1.840 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2337 sequences (249429 bp)...
+[M::mem_process_seqs] Processed 2337 reads in 0.737 CPU sec, 0.369 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC31.fq.fastq
+[main] Real time: 1.484 sec; CPU: 1.849 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2869 sequences (305394 bp)...
+[M::mem_process_seqs] Processed 2869 reads in 1.014 CPU sec, 0.514 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC32.fq.fastq
+[main] Real time: 1.650 sec; CPU: 2.147 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2709 sequences (282515 bp)...
+[M::mem_process_seqs] Processed 2709 reads in 1.169 CPU sec, 0.587 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC41.fq.fastq
+[main] Real time: 1.693 sec; CPU: 2.272 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 3211 sequences (345313 bp)...
+[M::mem_process_seqs] Processed 3211 reads in 1.257 CPU sec, 0.632 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC42.fq.fastq
+[main] Real time: 1.732 sec; CPU: 2.354 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2534 sequences (270695 bp)...
+[M::mem_process_seqs] Processed 2534 reads in 1.026 CPU sec, 0.518 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC43.fq.fastq
+[main] Real time: 1.624 sec; CPU: 2.130 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2463 sequences (262062 bp)...
+[M::mem_process_seqs] Processed 2463 reads in 0.943 CPU sec, 0.474 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC44.fq.fastq
+[main] Real time: 1.588 sec; CPU: 2.053 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2267 sequences (234970 bp)...
+[M::mem_process_seqs] Processed 2267 reads in 0.885 CPU sec, 0.444 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC45.fq.fastq
+[main] Real time: 1.583 sec; CPU: 2.021 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2113 sequences (222069 bp)...
+[M::mem_process_seqs] Processed 2113 reads in 0.763 CPU sec, 0.384 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC46.fq.fastq
+[main] Real time: 1.511 sec; CPU: 1.887 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2296 sequences (239447 bp)...
+[M::mem_process_seqs] Processed 2296 reads in 0.846 CPU sec, 0.425 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC47.fq.fastq
+[main] Real time: 1.572 sec; CPU: 1.989 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2733 sequences (291980 bp)...
+[M::mem_process_seqs] Processed 2733 reads in 1.036 CPU sec, 0.522 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC48.fq.fastq
+[main] Real time: 1.679 sec; CPU: 2.190 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1839 sequences (194961 bp)...
+[M::mem_process_seqs] Processed 1839 reads in 0.676 CPU sec, 0.340 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC49.fq.fastq
+[main] Real time: 1.465 sec; CPU: 1.799 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1047 sequences (109979 bp)...
+[M::mem_process_seqs] Processed 1047 reads in 0.346 CPU sec, 0.173 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC50.fq.fastq
+[main] Real time: 1.371 sec; CPU: 1.542 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1400 sequences (148715 bp)...
+[M::mem_process_seqs] Processed 1400 reads in 0.456 CPU sec, 0.230 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC52.fq.fastq
+[main] Real time: 1.427 sec; CPU: 1.648 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2024 sequences (214521 bp)...
+[M::mem_process_seqs] Processed 2024 reads in 0.747 CPU sec, 0.375 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC51.fq.fastq
+[main] Real time: 1.566 sec; CPU: 1.934 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2425 sequences (258133 bp)...
+[M::mem_process_seqs] Processed 2425 reads in 0.931 CPU sec, 0.468 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC53.fq.fastq
+[main] Real time: 1.593 sec; CPU: 2.054 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2082 sequences (218214 bp)...
+[M::mem_process_seqs] Processed 2082 reads in 0.885 CPU sec, 0.446 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC55.fq.fastq
+[main] Real time: 1.566 sec; CPU: 2.003 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 4154 sequences (435105 bp)...
+[M::mem_process_seqs] Processed 4154 reads in 1.634 CPU sec, 0.821 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC54.fq.fastq
+[main] Real time: 1.938 sec; CPU: 2.749 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2023 sequences (210411 bp)...
+[M::mem_process_seqs] Processed 2023 reads in 0.777 CPU sec, 0.393 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC56.fq.fastq
+[main] Real time: 1.477 sec; CPU: 1.859 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2270 sequences (242052 bp)...
+[M::mem_process_seqs] Processed 2270 reads in 0.925 CPU sec, 0.464 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC57.fq.fastq
+[main] Real time: 1.549 sec; CPU: 2.010 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1791 sequences (182075 bp)...
+[M::mem_process_seqs] Processed 1791 reads in 0.750 CPU sec, 0.377 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC58.fq.fastq
+[main] Real time: 1.447 sec; CPU: 1.820 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2302 sequences (239878 bp)...
+[M::mem_process_seqs] Processed 2302 reads in 0.817 CPU sec, 0.410 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC59.fq.fastq
+[main] Real time: 1.491 sec; CPU: 1.897 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1285 sequences (135648 bp)...
+[M::mem_process_seqs] Processed 1285 reads in 0.467 CPU sec, 0.235 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC60.fq.fastq
+[main] Real time: 1.327 sec; CPU: 1.559 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2281 sequences (242513 bp)...
+[M::mem_process_seqs] Processed 2281 reads in 0.763 CPU sec, 0.383 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC61.fq.fastq
+[main] Real time: 1.486 sec; CPU: 1.865 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 3170 sequences (332353 bp)...
+[M::mem_process_seqs] Processed 3170 reads in 1.038 CPU sec, 0.522 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC62.fq.fastq
+[main] Real time: 1.623 sec; CPU: 2.138 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1432 sequences (151083 bp)...
+[M::mem_process_seqs] Processed 1432 reads in 0.469 CPU sec, 0.237 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC63.fq.fastq
+[main] Real time: 1.291 sec; CPU: 1.522 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2305 sequences (240565 bp)...
+[M::mem_process_seqs] Processed 2305 reads in 0.714 CPU sec, 0.358 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC64.fq.fastq
+[main] Real time: 1.440 sec; CPU: 1.795 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 141672 sequences (17248261 bp)...
+[M::mem_process_seqs] Processed 141672 reads in 54.442 CPU sec, 27.272 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa unk.fastq
+[main] Real time: 28.547 sec; CPU: 55.711 sec
