@@ -2,7 +2,7 @@
 
 DATA=/path/to/GBS_data/FC20150701_1.fq
 BARCODE=/path/to/GBS_data/FC20150701_1.txt
-TOOL=/PATH/TO/sabre
+TOOL=/path/to/sabre
 
 exec &> sabre.log
 
