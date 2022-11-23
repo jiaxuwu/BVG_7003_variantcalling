@@ -1,8 +1,8 @@
 #!/bin/bash
 
-DATA=/Users/jiaxuwu/BVG_7003/varients_calling/NGS
+DATA=/path/to/NGS
 
-REF=/Users/jiaxuwu/BVG_7003/varients_calling/refgenome/Gmax_275_v2.0.fa
+REF=/path/to/Gmax_275_v2.0.fa
 
 CPU=3
 THR=2

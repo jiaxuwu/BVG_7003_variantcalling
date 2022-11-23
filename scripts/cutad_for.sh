@@ -1,6 +1,6 @@
-#!/bin/zsh
+#!/bin/bash
 
-cd /Users/jiaxuwu/BVG_7003/varients_calling/NGS
+cd /path/to/NGS
 
 # 3' adapter
 ADAP=AGATCGGAA
