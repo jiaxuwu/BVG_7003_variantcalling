@@ -1,0 +1,3 @@
+[mpileup] 49 samples in 49 input files
+[mpileup] maximum number of reads per input file set to -d 250
+Note: none of --samples-file, --ploidy or --ploidy-file given, assuming all sites are diploid
