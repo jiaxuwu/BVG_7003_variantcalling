@@ -1,4 +1,4 @@
-# BVG_7003_varientcalling
+# BVG_7003_variantcalling
 
 This page is created by Jiaxu Wu
 
@@ -6,7 +6,7 @@ There are some shell scripts for varient calling analysis in BVG_7003 @ Universi
 
 The results were saved in `result_files` folder.
 
-For varient calling please see 
+For variant calling please see 
 
 ## Requirement
 
