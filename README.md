@@ -98,7 +98,7 @@ For `BWA`
 
     bwa # run BWA to check it is working 
     
-Then running `mapping.sh`.
+Then, running `mapping.sh`.
 
 Align 70bp-1Mbp query sequences with the BWA-MEM algorithm, which is the latest, and generally recommended for high-quality queries as it is faster and more accurate. **Gmax_275_v2.0.fa** is the reference genome.
 
@@ -114,7 +114,7 @@ For `Samtools`
 
     samtools # run Samtools to check it is working 
     
-Then running `sam2bam`.
+Then, running `sam2bam.sh`.
 
 The script follows these process: 1. convert SAM format to BAM format; 2. sort BAM files; 3. indexing of BAM files; 4. create a list of BAM files with path.
 
@@ -130,8 +130,8 @@ For `BCFtools`
 
     bcftools # run BCFtools to check it is working 
     
-Then running `samt_var.sh`.
+Then, running `samt_var.sh`.
 
 Generate VCF and BCF containing genotype likelihoods for multiple BAM files. This is based on the BCFtools mpileup command producing genotype likelihoods in VCF or BCF format. **Gmax_275_v2.0.fa** is the reference genome.
 
-After running this script, we could find a new created `result1` folder which includes 1 .bcf file (`varients.bcf`), 1 .vcf file (varients.vcf`), and 1 .log file (`samt_var.log`) in the `NGS` folder. You can find the `varients.vcf` file and `samt_var.log` in the `log_result_files` folder.
+After running this script, we could find a new created `result1` folder which includes 1 .bcf file (`varients.bcf`), 1 .vcf file (`varients.vcf`), and 1 .log file (`samt_var.log`) in the `NGS` folder. You can find the `varients.vcf` file and `samt_var.log` in the `log_result_files` folder.
