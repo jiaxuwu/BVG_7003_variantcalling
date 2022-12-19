@@ -55,7 +55,7 @@ or
 
 ## Barcode demultiplexing for FastaQ files
 
-In this setp, the script of `sabre.sh` will be used. 
+In this step, the script of `sabre.sh` will be used. 
 
 Before use the script, please run sabre to make sure it is working.
 
